@@ -4,7 +4,8 @@ This directory contains technical assessments for Backend Developer positions at
 
 ## Available Assessments
 
-(Add specific assessment directories and descriptions here)
+-   [Geo Providers Database Design](./database-optimization/geo-providers.md)
+-   [Queries Optimization](./database-optimization/queries-optimization.md)
 
 ## Assessment Guidelines
 
